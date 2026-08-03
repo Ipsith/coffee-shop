@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#2E1D17"/>
+  <circle cx="200" cy="130" r="70" fill="#3B2620" stroke="#C9973B" stroke-width="4"/>
+  <text x="200" y="145" font-family="Georgia, serif" font-size="60" fill="#C9973B" text-anchor="middle">☕</text>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="16" fill="#B9A793" text-anchor="middle">Highland Roast</text>
+</svg>
